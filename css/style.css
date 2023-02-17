@@ -76,9 +76,9 @@ main {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    background-image: url(../img/fundo4.jpg);
+    background-image: url(../img/fundo3.jpg);
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size: cover;
     background-attachment: fixed;
     padding: 10px;
 }
@@ -91,7 +91,7 @@ section {
     padding: 20px 15px 15px 10px;
     text-align: center;
     border-radius: 15px;
-    box-shadow: 2px 1px 10px 2px black;
+    box-shadow: 2px 1px 10px 2px rgba(0, 0, 0, 0.6);
 }
 
 section img {
